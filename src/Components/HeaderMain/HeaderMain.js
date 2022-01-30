@@ -1,10 +1,11 @@
 import React from 'react';
 import chair from '../../images/chair.png';
+import './HeaderMain.css';
 const HeaderMain = () => {
 	return (
-		<main className='row'>
+		<main className='row d-flex align-items-center'>
 			<div className='col-md-4 offset-md-1'>
-				<h1>
+				<h1 className='nav-h1-color'>
 					Your New Smile <br /> Starts Here
 				</h1>
 				<p className='text-secondary'>
