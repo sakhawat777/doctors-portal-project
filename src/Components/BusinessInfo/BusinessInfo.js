@@ -2,7 +2,7 @@ import React from 'react';
 import InfoCard from '../InfoCard/InfoCard';
 import {
 	faClock,
-	faMapMarker,
+	faMapMarkerAlt,
 	faPhoneVolume,
 } from '@fortawesome/free-solid-svg-icons';
 const infoData = [
@@ -15,7 +15,7 @@ const infoData = [
 	{
 		title: 'Visit Our Location',
 		description: 'Brooklyn, NY 10036, USA',
-		icon: faMapMarker,
+		icon: faMapMarkerAlt,
 		background: 'dark',
 	},
 	{

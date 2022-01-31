@@ -13,7 +13,7 @@ const HeaderMain = () => {
 					industry. Lorem Ipsum has been the industry’s standard dummy text
 					ever since the
 				</p>
-				<button className='btn btn-primary'>GET APPOINTMENT</button>
+				<button className=' btn btn-primary'>GET APPOINTMENT</button>
 			</div>
 			<div className='col-md-6'>
 				<img src={chair} alt='' className='img-fluid' />
